@@ -24,6 +24,9 @@ How to run
 ## 網頁爬蟲
 練習: [結果](web_spider/nba.csv)
 
+## 資料分析
+練習: [肺炎確診資料](pandas/covid19.csv)
+
 ---
 ## github指令
 - config (設定git bash)
